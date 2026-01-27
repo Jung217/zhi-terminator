@@ -1,7 +1,7 @@
 {
   "name": "zhi-terminator",
-  "version": "1.0.0",
-  "description": "終結 AI/CS 領域的支語滲透，將術語在地化為臺灣正體中文。",
+  "version": "1.1.0",
+  "description": "終結 AI/CS 領域支語滲透，將術語在地化為臺灣正體中文（含 OS 系統級術語）。",
   "agent-skills": {
     "version": "1"
   }
