@@ -1,8 +1,16 @@
 {
   "name": "zhi-terminator",
   "version": "1.2.0",
-  "description": "終結 AI/CS 領域支語滲透，將術語在地化為臺灣正體中文。",
+  "description": "究極對抗支語滲透，將技術術語在地化為臺灣正體中文（含臺字正名）。",
   "agent-skills": {
     "version": "1"
-  }
+  },
+  "keywords": [
+    "taiwan",
+    "localization",
+    "anti-zhi",
+    "traditional-chinese",
+    "ai-terms"
+  ],
+  "author": "Jung217"
 }
