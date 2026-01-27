@@ -1,0 +1,15 @@
+{
+  "name": "zhi-terminator",
+  "version": "1.0.0",
+  "description": "終結支語滲透的 AI Skill",
+  "bin": {
+    "zhi-term": "./bin/cli.js"
+  },
+  "scripts": {
+    "add": "node ./bin/install-skill.js"
+  },
+  "files": [
+    "SKILL.md",
+    "bin"
+  ]
+}
