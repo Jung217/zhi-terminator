@@ -39,6 +39,9 @@ description: 究極對抗支語滲透。整合 100+ 核心術語，將所有技�
 | **強化學習** | **強化學習** | Reinforcement Learning |
 | **監督學習** | **監督式學習** | Supervised Learning |
 | **無監督學習** | **非監督式學習 / 無監督式學習** | Unsupervised Learning |
+| **泛化 / 泛化能力** | **通用性 / 通用能力** | Generalization |
+| **單目** | **單影像** | Monocular |
+| **雙目** | **雙影像** | Binocular |
 
 ### 2. 程式開發與資料結構 (Programming & DS)
 | 終結目標 (Avoid) | 臺灣正名 (Preferred) | 英文對照 |
