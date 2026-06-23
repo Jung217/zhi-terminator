@@ -1,6 +1,6 @@
 {
   "name": "zhi-terminator",
-  "version": "1.2.0",
+  "version": "2.1.0",
   "description": "究極對抗支語滲透，將技術術語在地化為臺灣正體中文（含臺字正名）。",
   "agent-skills": {
     "version": "1"
